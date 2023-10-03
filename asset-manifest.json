@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mediabui/static/css/main.ffcb3944.css",
+    "main.js": "/mediabui/static/js/main.9647abde.js",
+    "static/media/bootstrap-icons.woff?": "/mediabui/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/mediabui/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "index.html": "/mediabui/index.html",
+    "main.ffcb3944.css.map": "/mediabui/static/css/main.ffcb3944.css.map",
+    "main.9647abde.js.map": "/mediabui/static/js/main.9647abde.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffcb3944.css",
+    "static/js/main.9647abde.js"
+  ]
+}
